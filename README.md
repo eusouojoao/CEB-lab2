@@ -1,6 +1,6 @@
 # IST-CEB-Lab2 2022/2023 | [L2 - Differential Pair](Labs_2023_v0.pdf)
 
-## Introduction
+## Overview
 
 This laboratory work aims to analyze the operation of a differential pair with resistive load. Specifically, we will analyze the transfer characteristic, voltage gains (differential mode and common mode), input resistance in the differential mode, input resistance in the common mode, common-mode rejection ratio, and input offset voltage.
 
